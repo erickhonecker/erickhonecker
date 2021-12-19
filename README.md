@@ -5,7 +5,7 @@
 <div align="left">
   <a href="https://github.com/erickhonecker">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=erickhonecker&show_icons=true&theme=light&include_all_commits=true&count_private=true"/></div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickhonecker&layout=compact&langs_count=7&theme=light"/>
+ <div align="right"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickhonecker&layout=compact&langs_count=7&theme=light"/></div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
