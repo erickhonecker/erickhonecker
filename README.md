@@ -1,6 +1,6 @@
 
 ## Hey, I'm Erick Honecker, I'm graduated in Computer Science for the Internet, I'm studying Computer Science, I love programming and technology.
-<div align="center">
+<div align="left">
   <a href="https://github.com/erickhonecker">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=erickhonecker&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickhonecker&layout=compact&langs_count=7&theme=light"/>
