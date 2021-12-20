@@ -1,5 +1,5 @@
 
-## Hi, I'm Erick Honecker, I'm graduated in Computer Science for the Internet, and graduating in Computer Science, I love programming and technology.
+## Hi, I'm Erick Honecker, I'm graduated in Computer for the Internet, and graduating in Computer Science, I love programming and technology.
   
 
 <div align="center">
